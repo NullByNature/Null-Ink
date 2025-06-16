@@ -47,9 +47,3 @@ I'm using NullInk to build confidence with:
 - Type: **.NET Console Application**
 - Tools: `System`, `System.IO`
 
----
-
-## ✍️ Author
-
-Made by [Your Name or GitHub Username]  
-_“Working toward real security, one blur at a time.”_
